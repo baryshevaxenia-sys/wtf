@@ -254,7 +254,7 @@ where $\kappa(P)$ is the number of **cyclic classes** of projection orders. Here
 is universal, and so is $\mathbb E N_1=T_1/(N-1)!$. For $N=d+3$ (planar Gale diagram),
 $N_1\le2$, and
 
-$$T_2(P)=2\,s(P),\qquad s(P)=\#\{\text{splits }A|B\text{ whose }|A||B|\text{ crossings are consecutive in the circular sequence of }P\}.$$
+$$T_2(P)=2,s(P),\qquad s(P)=\left|\{\text{splits }A|B\text{ whose }|A||B|\text{ crossings are consecutive in the circular sequence of }P\}\right|.$$
 
 Equivalently, $s(P)$ counts the splits $A|B$ that are linearly separable and such that
 every line through two points on the same side is parallel to some separating line.
